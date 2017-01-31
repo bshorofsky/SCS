@@ -71,7 +71,7 @@ p {
 
 .bg-dark {
     color: #eee;
-    background-color: #222;
+    background-color: #545454;
 }
 
 .cursive {
@@ -88,7 +88,7 @@ p {
 }
 
 .text-primary {
-    color: #9c27b0;
+    color: #F7AC65;
 }
 
 .modal-content {

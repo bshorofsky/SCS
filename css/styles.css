@@ -16,7 +16,7 @@ body {
 
 body {
     font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
-    background-color: #6a646a;
+    background-color: #F7AC65;
     color: #333E4F;
     webkit-tap-highlight-color: #222;
 }
@@ -34,7 +34,7 @@ hr.light {
 }
 
 a {
-    color: #6a646a;
+    color: #F7AC65;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -42,7 +42,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #6a646a;
+    color: #F7AC65;
     outline: 0;
 }
 
@@ -114,7 +114,7 @@ footer {
 .navbar-default {
     border-color: #40353D;
     font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
-    background-color: #40353D;
+    background-color: #F7AC65;
     -webkit-transition: all .4s;
     -moz-transition: all .4s;
     transition: all .4s;

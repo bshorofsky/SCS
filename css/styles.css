@@ -542,3 +542,7 @@ img.resize_2{
    max-width:45%;
    max-height:45%;
 }
+
+.icon-primary {
+    color: #228dba;
+}

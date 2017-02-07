@@ -233,7 +233,7 @@ header {
     color: #fff;
     width: 100%;
     background-color: #c9c9c9;
-    background-image: url('img/lumber.jpg');
+    background-image: url('https://images.unsplash.com/photo-1422246654994-34520d5a0340?dpr=1&auto=format&fit=crop&w=767&h=511&q=80&cs=tinysrgb&crop=');
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;

@@ -88,7 +88,7 @@ p {
 }
 
 .text-primary {
-    color: #6a646a;
+    color: #edbb3a;
 }
 
 .modal-content {
@@ -284,8 +284,8 @@ footer {
     .icon-lg {
         font-size: 80px;
     }
-    
-    header {
+  
+header {
         min-height: 100%;
     }
 

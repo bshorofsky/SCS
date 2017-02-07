@@ -215,7 +215,7 @@ footer {
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
     .navbar-default.affix .navbar-header .navbar-brand:focus {
-        color: #8b27b0;
+        color: #edbb3a;
     }
 
     .navbar-default.affix .nav > li>a,
@@ -544,5 +544,5 @@ img.resize_2{
 }
 
 .icon-primary {
-    color: #228dba;
+    color: #fff;
 }

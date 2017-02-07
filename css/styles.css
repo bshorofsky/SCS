@@ -91,6 +91,10 @@ p {
     color: #228dba;
 }
 
+.text-accent {
+    color:#edbb3a;
+}
+
 .modal-content {
     background-color: #6a646a;
 }

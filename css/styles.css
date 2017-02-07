@@ -522,3 +522,9 @@ img::-moz-selection {
     color: #fff;
     background: 0 0;
 }
+
+
+img.resize{
+   max-width:30%;
+   max-height:30%;
+}

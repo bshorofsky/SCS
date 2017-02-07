@@ -16,7 +16,7 @@ body {
 
 body {
     font-family: 'Questrial','Helvetica Neue',Arial,sans-serif;
-    background-color: #F7AC65;
+    background-color: #ffffff;
     color: #6a646a;
     webkit-tap-highlight-color: #222;
 }
@@ -88,7 +88,7 @@ p {
 }
 
 .text-primary {
-    color: #6a646a;
+    color: #edbb3a;
 }
 
 .modal-content {

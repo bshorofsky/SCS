@@ -525,8 +525,8 @@ img::-moz-selection {
 
 
 img.resize{
-   max-width:10%;
-   max-height:10%;
+   max-width:12%;
+   max-height:12%;
 }
 
 img.resize-large{
@@ -535,6 +535,6 @@ img.resize-large{
 }
 
 img.resize_2{
-   max-width:40%;
-   max-height:40%;
+   max-width:45%;
+   max-height:45%;
 }

@@ -546,3 +546,7 @@ img.resize_2{
 .icon-primary {
     color: #fff;
 }
+
+.imgContainer{
+    float:left;
+}

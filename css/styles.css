@@ -237,7 +237,7 @@ header {
     color: #fff;
     width: 100%;
     background-color: #c9c9c9;
-    background-image: url("img/floor.jpg");
+    background-image: url('https://goo.gl/photos/qbNsYMCHcoLYexnS9');
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -534,8 +534,8 @@ img.resize{
 }
 
 img.resize-large{
-   max-width:70%;
-   max-height:70%;
+   max-width:73%;
+   max-height:73%;
 }
 
 img.resize_2{

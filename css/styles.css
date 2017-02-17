@@ -333,7 +333,7 @@ footer {
     padding: 6px 12px;
     font-size: 14px;
     line-height: 1.5;
-    color: #eee;
+    color: #6A646A;
     background-color: #F5F2D7;
     background-image: none;
     border: 1px solid #F5F2D7;
@@ -343,7 +343,7 @@ footer {
 }
 
 .form-control:focus {
-    color: #222;
+    color: #6A646A;
     background-color: #F5F2D7;
     box-shadow: none;
 }
